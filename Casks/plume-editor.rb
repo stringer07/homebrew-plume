@@ -1,6 +1,6 @@
 cask "plume-editor" do
-  version "1.0.2"
-  sha256 "545afc64b3bfee966433152eeabd864458c7af4c3b88a5c2705bffb887e3919b"
+  version "1.0.3"
+  sha256 "587edfb445dba45bb0fc424065b899e5d701686cf73aa9d9bb89d192a42ffc8d"
 
   url "https://github.com/stringer07/homebrew-plume/releases/download/v#{version}/Plume-#{version}.zip"
   name "Plume"
